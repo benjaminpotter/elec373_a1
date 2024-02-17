@@ -1,0 +1,11 @@
+
+# project
+bin/*
+build/*
+extra/*
+
+# mac
+.DS_Store
+
+# ide
+.vscode
